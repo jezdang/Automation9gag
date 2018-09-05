@@ -1,0 +1,142 @@
+09-04-2018 22:25:35[INFO ] - [ExtendLog / log] - [INFO] Current OS is: mac os x
+09-04-2018 22:25:35[INFO ] - [Configuration / getWebDriverPath] - WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 22:25:35[INFO ] - [DriverFactory / getDriver] - Initiate browser: CHROME
+09-04-2018 22:25:38[INFO ] - [SharedDriver / <clinit>] - ########## Start new shared driver [2018.09.04.22.25.38] ##########
+09-04-2018 22:25:45[INFO ] - [ExtendLog / log] - [CHECK] Verify User is not logged in
+09-04-2018 22:25:45[INFO ] - [ExtendLog / log] - [ACTION] Enter email: jez.dang@gmail.com
+09-04-2018 22:25:49[INFO ] - [ExtendLog / log] - [ACTION] Enter password
+09-04-2018 22:25:49[INFO ] - [ExtendLog / log] - [ACTION] Click Login Button
+09-04-2018 22:25:55[INFO ] - [ExtendLog / log] - [CHECK] Verify User is logged in
+09-04-2018 22:48:45[INFO ][INFO] Current OS is: mac os x
+09-04-2018 22:48:45[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 22:48:45[INFO ]Initiate browser: CHROME
+09-04-2018 22:48:49[INFO ]########## Start new shared driver [2018.09.04.22.48.49] ##########
+09-04-2018 22:49:26[INFO ][CHECK] Verify User is not logged in
+09-04-2018 22:49:26[INFO ][ACTION] Enter email: jez.dang@gmail.com
+09-04-2018 22:49:27[INFO ][ACTION] Enter password
+09-04-2018 22:49:27[INFO ][ACTION] Click Login Button
+09-04-2018 22:49:34[INFO ][CHECK] Verify User is logged in
+09-04-2018 22:50:06[INFO ][INFO] Current OS is: mac os x
+09-04-2018 22:50:06[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 22:50:06[INFO ]Initiate browser: CHROME
+09-04-2018 22:50:10[INFO ]########## Start new shared driver [2018.09.04.22.50.10] ##########
+09-04-2018 22:50:47[INFO ][CHECK] Verify User is not logged in
+09-04-2018 22:50:47[INFO ][ACTION] Enter email: jez.dang@gmail.com
+09-04-2018 22:50:48[INFO ][ACTION] Enter password
+09-04-2018 22:50:48[INFO ][ACTION] Click Login Button
+09-04-2018 22:50:58[INFO ][CHECK] Verify User is logged in
+09-04-2018 22:50:58[INFO ][INFO] Current OS is: mac os x
+09-04-2018 22:50:58[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 22:50:58[INFO ]Initiate browser: CHROME
+09-04-2018 22:52:02[INFO ][INFO] Current OS is: mac os x
+09-04-2018 22:52:02[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 22:52:02[INFO ]Initiate browser: CHROME
+09-04-2018 22:52:06[INFO ]########## Start new shared driver [2018.09.04.22.52.06] ##########
+09-04-2018 22:52:46[INFO ][CHECK] Verify User is not logged in
+09-04-2018 22:52:46[INFO ][ACTION] Enter email: jez.dang@gmail.com
+09-04-2018 22:52:47[INFO ][ACTION] Enter password
+09-04-2018 22:52:47[INFO ][ACTION] Click Login Button
+09-04-2018 22:52:54[INFO ][CHECK] Verify User is logged in
+09-04-2018 22:52:55[INFO ][INFO] Current OS is: mac os x
+09-04-2018 22:52:55[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 22:52:55[INFO ]Initiate browser: CHROME
+09-04-2018 22:57:03[INFO ][INFO] Current OS is: mac os x
+09-04-2018 22:57:03[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 22:57:03[INFO ]Initiate browser: CHROME
+09-04-2018 22:57:08[INFO ]########## Start new shared driver [2018.09.04.22.57.08] ##########
+09-04-2018 22:57:50[INFO ][CHECK] Verify User is not logged in
+09-04-2018 22:57:50[INFO ][ACTION] Enter email: jez.dang@gmail.com
+09-04-2018 22:57:51[INFO ][ACTION] Enter password
+09-04-2018 22:57:52[INFO ][ACTION] Click Login Button
+09-04-2018 22:57:58[INFO ][CHECK] Verify User is logged in
+09-04-2018 22:57:58[INFO ][INFO] Current OS is: mac os x
+09-04-2018 22:57:58[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 22:57:58[INFO ]Initiate browser: CHROME
+09-04-2018 23:16:11[INFO ][INFO] Current OS is: mac os x
+09-04-2018 23:16:11[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 23:16:11[INFO ]Initiate browser: CHROME
+09-04-2018 23:16:16[INFO ]########## Start new shared driver [2018.09.04.23.16.16] ##########
+09-04-2018 23:16:17[INFO ][INFO] Current OS is: mac os x
+09-04-2018 23:16:17[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 23:16:17[INFO ]Initiate browser: CHROME
+09-04-2018 23:16:18[INFO ][INFO] Current URL: data:,
+09-04-2018 23:16:31[INFO ][INFO] Current OS is: mac os x
+09-04-2018 23:16:31[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 23:16:31[INFO ]Initiate browser: CHROME
+09-04-2018 23:16:33[INFO ][INFO] Current URL: data:,
+09-04-2018 23:16:33[INFO ][CHECK] Verify User is not logged in
+09-04-2018 23:16:33[INFO ][INFO] Current OS is: mac os x
+09-04-2018 23:16:33[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 23:16:33[INFO ]Initiate browser: CHROME
+09-04-2018 23:16:35[INFO ][INFO] Current URL: data:,
+09-04-2018 23:16:35[INFO ][ACTION] Enter email: jez.dang@gmail.com
+09-04-2018 23:16:36[INFO ][ACTION] Enter password
+09-04-2018 23:16:36[INFO ][ACTION] Click Login Button
+09-04-2018 23:16:46[INFO ][INFO] Current OS is: mac os x
+09-04-2018 23:16:46[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 23:16:46[INFO ]Initiate browser: CHROME
+09-04-2018 23:16:49[INFO ][INFO] Current URL: data:,
+09-04-2018 23:16:49[INFO ][CHECK] Verify User is logged in
+09-04-2018 23:16:49[INFO ][INFO] Current OS is: mac os x
+09-04-2018 23:16:49[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 23:16:49[INFO ]Initiate browser: CHROME
+09-04-2018 23:16:51[INFO ][INFO] Current URL: data:,
+09-04-2018 23:16:51[INFO ][INFO] Current OS is: mac os x
+09-04-2018 23:16:51[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 23:16:51[INFO ]Initiate browser: CHROME
+09-04-2018 23:20:18[INFO ][INFO] Current OS is: mac os x
+09-04-2018 23:20:18[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 23:20:18[INFO ]Initiate browser: CHROME
+09-04-2018 23:20:23[INFO ]########## Start new shared driver [2018.09.04.23.20.23] ##########
+09-04-2018 23:20:23[INFO ][INFO] Current OS is: mac os x
+09-04-2018 23:20:23[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 23:20:23[INFO ]Initiate browser: CHROME
+09-04-2018 23:20:25[INFO ][INFO] Current URL: data:,
+09-04-2018 23:20:45[INFO ][INFO] Current OS is: mac os x
+09-04-2018 23:20:45[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 23:20:45[INFO ]Initiate browser: CHROME
+09-04-2018 23:20:46[INFO ][INFO] Current URL: data:,
+09-04-2018 23:20:46[INFO ][CHECK] Verify User is not logged in
+09-04-2018 23:20:47[INFO ][INFO] Current OS is: mac os x
+09-04-2018 23:20:47[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 23:20:47[INFO ]Initiate browser: CHROME
+09-04-2018 23:20:48[INFO ][INFO] Current URL: data:,
+09-04-2018 23:20:48[INFO ][ACTION] Enter email: jez.dang@gmail.com
+09-04-2018 23:20:49[INFO ][ACTION] Enter password
+09-04-2018 23:20:49[INFO ][ACTION] Click Login Button
+09-04-2018 23:20:59[INFO ][INFO] Current OS is: mac os x
+09-04-2018 23:20:59[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 23:20:59[INFO ]Initiate browser: CHROME
+09-04-2018 23:21:01[INFO ][INFO] Current URL: data:,
+09-04-2018 23:21:01[INFO ][CHECK] Verify User is logged in
+09-04-2018 23:21:02[INFO ][INFO] Current OS is: mac os x
+09-04-2018 23:21:02[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 23:21:02[INFO ]Initiate browser: CHROME
+09-04-2018 23:21:04[INFO ][INFO] Current URL: data:,
+09-04-2018 23:21:04[INFO ][INFO] Current OS is: mac os x
+09-04-2018 23:21:04[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 23:21:04[INFO ]Initiate browser: CHROME
+09-04-2018 23:22:11[INFO ][INFO] Current OS is: mac os x
+09-04-2018 23:22:11[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 23:22:11[INFO ]Initiate browser: CHROME
+09-04-2018 23:22:16[INFO ]########## Start new shared driver [2018.09.04.23.22.16] ##########
+09-04-2018 23:22:16[INFO ][INFO] Current OS is: mac os x
+09-04-2018 23:22:16[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 23:22:16[INFO ]Initiate browser: CHROME
+09-04-2018 23:22:18[INFO ][INFO] Current URL: data:,
+09-04-2018 23:23:50[INFO ][INFO] Current OS is: mac os x
+09-04-2018 23:23:50[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 23:23:50[INFO ]Initiate browser: CHROME
+09-04-2018 23:23:54[INFO ][INFO] Current OS is: mac os x
+09-04-2018 23:23:54[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 23:23:54[INFO ]Initiate browser: CHROME
+09-04-2018 23:23:56[INFO ][INFO] Current OS is: mac os x
+09-04-2018 23:23:56[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 23:23:56[INFO ]Initiate browser: CHROME
+09-04-2018 23:23:57[INFO ][INFO] Current URL: data:,
+09-04-2018 23:23:57[INFO ][INFO] Current OS is: mac os x
+09-04-2018 23:23:57[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 23:23:57[INFO ]Initiate browser: CHROME
+09-04-2018 23:23:59[INFO ][INFO] Current OS is: mac os x
+09-04-2018 23:23:59[INFO ]WebDriverPath is: src/main/resources/bin/chromedriver
+09-04-2018 23:23:59[INFO ]Initiate browser: CHROME
